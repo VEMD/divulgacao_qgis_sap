@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(41, 41, 41);
+}
+
+.imgLogoNav{
+    width: 80px;
+    object-fit: contain;
+    margin-left: 10px;
+}
+
+.reactLink{
+    text-decoration: none;
+}
+
+.navDropdownCursor{
+    cursor: pointer;
+}

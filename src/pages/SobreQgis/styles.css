@@ -1,0 +1,38 @@
+.containerSobreQgis{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.textSobreQgis{
+    margin: 20px 20%;
+}
+
+.containerFeatures img{
+    margin: 25px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px black;
+}
+
+.containerSobreQgis h2{
+    margin-top: 50px;
+}
+
+.containerButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerFeatures div a h4{
+    color: #999;
+}
+
+.containerButtonGetStart{
+    margin: 50px;
+}
+
+.containerButtonGetStart a{
+    font-size: 25pt;
+}

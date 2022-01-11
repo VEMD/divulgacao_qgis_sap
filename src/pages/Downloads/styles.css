@@ -1,0 +1,40 @@
+.downloadCabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.downloadCabecalhoTxt{
+    max-width: 350px;
+    margin: 20px 20px;
+}
+
+.divDownload{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 0 40%;
+    min-width: 300px;
+}
+
+.windowsLogo, .androidLogo{
+    max-width: 100px;
+}
+
+.macLogo, .linuxLogo{
+    max-width: 60px;
+    margin: 0 20px;
+}
+
+.playBadge{
+    max-width: 150px;
+}
+
+.separador{
+    margin: 10px 30%;
+}
+
+.separadorMenor{
+    margin: 10px 35%;
+}
